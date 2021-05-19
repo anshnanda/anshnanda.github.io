@@ -1,2 +1,3 @@
 # anshnanda.github.io
-My personal website
+My personal website (now deprecated)
+Moved to https://ansh.io/!
